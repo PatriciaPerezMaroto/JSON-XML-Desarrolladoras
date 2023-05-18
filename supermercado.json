@@ -1,0 +1,115 @@
+{
+    "Supermercados": [
+        {
+            "nombre": "AhorraMas",
+            "direccion": "Avenida de la Transición Española, 37, 28108, Alcobendas, Madrid",
+            "geolocalización": "40.54592185014079, -3.62679516792164",
+            "producto": [
+                {
+                    "nombre": "Yatekomo",
+                    "tipo": "verdura",
+                    "unidades": 3,
+                    "oferta": "true",
+                    "precio": 2.30,
+                    "caducidad": "30 de Marzo",
+                    "producto adquidido": true
+
+                },
+                {
+                    "nombre": "Gyozas",
+                    "tipo": "congelados",
+                    "unidades": 1,
+                    "oferta": "false",
+                    "precio": 4.50,
+                    "caducidad": "30 de Junio",
+                    "producto adquidido": true
+                },
+                {
+                    "nombre": "Macarrones",
+                    "tipo": "Pasta",
+                    "unidades": 1,
+                    "oferta": "false",
+                    "precio": 1.50,
+                    "caducidad": "10 de Septiembre",
+                    "producto adquidido": true
+                }
+            ]
+            
+        },
+        {
+            "nombre": "Mercadona",
+            "direccion": "Calle Escudo de Oro, 37, 28044, La Peseta, Madrid",
+            "geolocalización": "40.364147, -3.746983",
+            "producto":[
+                {
+                    "nombre": "Tomate",
+                    "tipo": "verdura",
+                    "unidades": 6,
+                    "oferta": "false",
+                    "precio": 5.30,
+                    "caducidad": "17 de Abril",
+                    "producto adquidido": false
+
+                },
+                {
+                    "nombre": "Pan de centeno",
+                    "tipo": "cereales",
+                    "unidades": 1,
+                    "oferta": "false",
+                    "precio": 3.70,
+                    "caducidad": "23 de Mayo",
+                    "producto adquidido": false
+
+                },
+                {
+                    "nombre": "Manzanas",
+                    "tipo": "Fruta",
+                    "unidades": 7,
+                    "oferta": "false",
+                    "precio": 6.70,
+                    "caducidad": "20 de Mayo",
+                    "producto adquidido": false
+                }
+            ]
+            
+        },
+        {
+            "nombre": "Lidl",
+            "direccion": "Calle Patrimono de la Humanudad, 9, 28054, La Peseta, Madrid",
+            "geolocalización": "40.361069, -3.759605",
+            "producto":[
+                {
+                    "nombre": "Monster",
+                    "tipo": "Bebida",
+                    "unidades": 6,
+                    "oferta": "false",
+                    "precio": 1.70,
+                    "caducidad": "12 de Septiembre",
+                    "producto adquidido": false
+
+                },
+                {
+                    "nombre": "Fanta",
+                    "tipo": "Bebida",
+                    "unidades": 1,
+                    "oferta": "false",
+                    "precio": 2.50,
+                    "caducidad": "27 de Agosto",
+                    "producto adquidido": false
+
+                },
+                {
+                    "nombre": "Patatas fritas congeladas",
+                    "tipo": "Congelados",
+                    "unidades": 71,
+                    "oferta": "false",
+                    "precio": 3.30,
+                    "caducidad": "07 de Diciembre",
+                    "producto adquidido": false
+
+                }
+            ]
+            
+        }         
+    ]
+}

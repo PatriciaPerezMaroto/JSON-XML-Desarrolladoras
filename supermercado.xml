@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <Supermercados>
+    <Supermercado>
+        <nombre>AhorraMas</nombre>
+        <direccion>Avenida de la Transición Española, 37, 28108, Alcobendas, Madrid</direccion>
+        <geolocalización>40.54592185014079, -3.62679516792164</geolocalización>
+        <producto>
+            <nombre>Yatekomo</nombre>
+            <tipo>verdura</tipo>
+            <unidades>3</unidades>
+            <oferta>true</oferta>
+            <precio>2.30</precio>
+            <caducidad>30 de Marzo</caducidad>
+            <producto adquidido>true</producto adquidido>
+        </producto>
+        <producto>
+            <nombre>Gyozas</nombre>
+            <tipo>congelados</tipo>
+            <unidades>1</unidades>
+            <oferta>false</oferta>
+            <precio>4.50</precio>
+            <caducidad>30 de Junio</caducidad>
+            <producto adquidido>true</producto adquidido>
+        </producto>
+        <producto>
+            <nombre>Macarrones</nombre>
+            <tipo>Pasta</tipo>
+            <unidades>1</unidades>
+            <oferta>false</oferta>
+            <precio>1.50</precio>
+            <caducidad>10 de Septiembre</caducidad>
+            <producto adquidido>true</producto adquidido>
+        </producto>
+    </Supermercado>
+    <Supermercado>
+        <nombre>Mercadona</nombre>
+        <direccion>Calle Escudo de Oro, 37, 28044, La Peseta, Madrid</direccion>
+        <geolocalización>40.364147, -3.746983</geolocalización>
+        <producto>
+            <nombre>Tomate</nombre>
+            <tipo>verdura</tipo>
+            <unidades>6</unidades>
+            <oferta>false</oferta>
+            <precio>5.30</precio>
+            <caducidad>17 de Abril</caducidad>
+            <producto adquidido>false</producto adquidido>
+        </producto>
+        <producto>
+            <nombre>Pan de centeno</nombre>
+            <tipo>cereales</tipo>
+            <unidades>1</unidades>
+            <oferta>false</oferta>
+            <precio>3.70</precio>
+            <caducidad>23 de Mayo</caducidad>
+            <producto adquidido>false</producto adquidido>
+        </producto>
+        <producto>
+            <nombre>Manzanas</nombre>
+            <tipo>Fruta</tipo>
+            <unidades>7</unidades>
+            <oferta>false</oferta>
+            <precio>6.70</precio>
+            <caducidad>20 de Mayo</caducidad>
+            <producto adquidido>false</producto adquidido>
+        </producto>
+    </Supermercado>
+    <Supermercado>
+        <nombre>Lidl</nombre>
+        <direccion>Calle Patrimono de la Humanudad, 9, 28054, La Peseta, Madrid</direccion>
+        <geolocalización>40.361069, -3.759605</geolocalización>
+        <producto>
+            <nombre>Monster</nombre>
+            <tipo>Bebida</tipo>
+            <unidades>6</unidades>
+            <oferta>false</oferta>
+            <precio>1.70</precio>
+            <caducidad>12 de Septiembre</caducidad>
+            <producto adquidido>false</producto adquidido>
+        </producto>
+        <producto>
+            <nombre>Fanta</nombre>
+            <tipo>Bebida</tipo>
+            <unidades>1</unidades>
+            <oferta>false</oferta>
+            <precio>2.50</precio>
+            <caducidad>27 de Agosto</caducidad>
+            <producto adquidido>false</producto adquidido>
+        </producto>
+        <producto>
+            <nombre>Patatas fritas congeladas</nombre>
+            <tipo>Congelados</tipo>
+            <unidades>71</unidades>
+            <oferta>false</oferta>
+            <precio>3.30</precio>
+            <caducidad>07 de Diciembre</caducidad>
+            <producto adquidido>false</producto adquidido>
+        </producto>
+    </Supermercado>
+</Supermercados>
+</root>
+
+
+
+
+
+
